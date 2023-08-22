@@ -1,0 +1,10 @@
+{
+  "name": "com.text1258.unitymultilingualplugin",
+  "author": "Text1258",
+  "version": "0.5.0",
+  "displayName": "Unity Multilingual Plugin",
+  "description": "Localization plugin with which you can localize EVERYTHING",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
